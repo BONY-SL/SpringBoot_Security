@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>SpringBootSecurtyJWT</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringBootSecurtyJWT</name>
+	<name>SpringBootSecurityJWT</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
