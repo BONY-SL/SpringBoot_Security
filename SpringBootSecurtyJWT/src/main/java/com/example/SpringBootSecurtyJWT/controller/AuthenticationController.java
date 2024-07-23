@@ -1,6 +1,4 @@
 package com.example.SpringBootSecurtyJWT.controller;
-
-
 import com.example.SpringBootSecurtyJWT.service.AuthService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
